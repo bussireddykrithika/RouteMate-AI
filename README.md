@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # RouteMate AI — Campus Transit
 
 A polished React + Vite hackathon demo for intelligent campus transportation.
@@ -29,3 +30,7 @@ All route, GPS, ETA, occupancy and fleet values are simulated in the browser. No
 - Feed GPS coordinates into the map marker in `MapPanel`.
 - Replace the ETA calculation in `App.jsx` with a traffic-aware ETA service.
 - Connect notifications and driver telemetry through a backend service.
+=======
+# RouteMate-AI
+AI-powered college transportation assistant | Nebius x NVIDIA Global AI Hackathonno
+>>>>>>> 5c31a594f0b434615c321514b4e18a55c44fd906
